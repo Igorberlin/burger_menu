@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/burger_menu/static/css/main.e3fe3a6d.chunk.css",
+    "main.css": "/burger_menu/static/css/main.959be601.chunk.css",
     "main.js": "/burger_menu/static/js/main.05a02715.chunk.js",
     "main.js.map": "/burger_menu/static/js/main.05a02715.chunk.js.map",
     "runtime-main.js": "/burger_menu/static/js/runtime-main.c7646289.js",
@@ -8,13 +8,13 @@
     "static/js/2.e95c7f51.chunk.js": "/burger_menu/static/js/2.e95c7f51.chunk.js",
     "static/js/2.e95c7f51.chunk.js.map": "/burger_menu/static/js/2.e95c7f51.chunk.js.map",
     "index.html": "/burger_menu/index.html",
-    "static/css/main.e3fe3a6d.chunk.css.map": "/burger_menu/static/css/main.e3fe3a6d.chunk.css.map",
+    "static/css/main.959be601.chunk.css.map": "/burger_menu/static/css/main.959be601.chunk.css.map",
     "static/js/2.e95c7f51.chunk.js.LICENSE.txt": "/burger_menu/static/js/2.e95c7f51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7646289.js",
     "static/js/2.e95c7f51.chunk.js",
-    "static/css/main.e3fe3a6d.chunk.css",
+    "static/css/main.959be601.chunk.css",
     "static/js/main.05a02715.chunk.js"
   ]
 }
