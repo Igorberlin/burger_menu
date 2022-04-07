@@ -17,7 +17,7 @@
     position: absolute;
 }
 .menu-content {
-    width: 10%;
+    width: 200px;
     height: 100%;
     background-color: black;
     display: flex;
